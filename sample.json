@@ -1,0 +1,373 @@
+{
+  "reqInfo": {
+    "retrievalMode": "",
+    "showMore": true,
+    "retrievalReference": "0000000000001200D5D50000"
+  },
+  "tableMessage": "",
+  "transaction": [
+    {
+      "foreignAmount": "",
+      "amount": "-3.7",
+      "transactionDate": "11 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "11 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-98.0",
+      "transactionDate": "11 Jan 2021",
+      "description": "MBB CT               MOHD AZRUL IZZAHAM * AIZZAT",
+      "postingDate": "11 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-20.0",
+      "transactionDate": "10 Jan 2021",
+      "description": "2101100829480580     467499015          * TNG DIGITAL SD",
+      "postingDate": "10 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-69.73",
+      "transactionDate": "9 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "9 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-20.59",
+      "transactionDate": "9 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "9 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-1543.98",
+      "transactionDate": "9 Jan 2021",
+      "description": "MBB CT               EV SOLUTION        * SKILLEDD",
+      "postingDate": "9 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-18.59",
+      "transactionDate": "8 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "8 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-20.36",
+      "transactionDate": "8 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "8 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "20.55",
+      "transactionDate": "8 Jan 2021",
+      "description": "PRE-AUTH REFUND",
+      "postingDate": "8 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-390.95",
+      "transactionDate": "8 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "8 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "394.82",
+      "transactionDate": "8 Jan 2021",
+      "description": "PRE-AUTH REFUND",
+      "postingDate": "8 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-18.46",
+      "transactionDate": "7 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "7 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-394.82",
+      "transactionDate": "7 Jan 2021",
+      "description": "PRE-AUTH DEBIT",
+      "postingDate": "7 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-20.55",
+      "transactionDate": "6 Jan 2021",
+      "description": "PRE-AUTH DEBIT",
+      "postingDate": "6 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-13.42",
+      "transactionDate": "6 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "6 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-101.03",
+      "transactionDate": "5 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "5 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-15.3",
+      "transactionDate": "5 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "5 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-292.0",
+      "transactionDate": "4 Jan 2021",
+      "description": "PAYMENT VIA MYDEBIT",
+      "postingDate": "4 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-200.0",
+      "transactionDate": "4 Jan 2021",
+      "description": "WHT-MAN-300120-3866                       2t3zEyFr8Ucc7",
+      "postingDate": "4 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-16.09",
+      "transactionDate": "3 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "3 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-28.6",
+      "transactionDate": "3 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "3 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "28.89",
+      "transactionDate": "3 Jan 2021",
+      "description": "PRE-AUTH REFUND",
+      "postingDate": "3 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-23.03",
+      "transactionDate": "2 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "2 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-50.0",
+      "transactionDate": "2 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "2 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-81.73",
+      "transactionDate": "1 Jan 2021",
+      "description": "SALE DEBIT",
+      "postingDate": "1 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-28.89",
+      "transactionDate": "1 Jan 2021",
+      "description": "PRE-AUTH DEBIT",
+      "postingDate": "1 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-170.0",
+      "transactionDate": "1 Jan 2021",
+      "description": "                     MOHD ZULKIFLI BIN A* aizzat",
+      "postingDate": "1 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-170.0",
+      "transactionDate": "1 Jan 2021",
+      "description": "                     NORISA IBRAAHIM    * aizzat",
+      "postingDate": "1 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-50.0",
+      "transactionDate": "1 Jan 2021",
+      "description": "MBB CT               NURUL ATIQ BINTI MO* aizzat",
+      "postingDate": "1 Jan 2021",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "4.12",
+      "transactionDate": "31 Dec 2020",
+      "description": "HIBAH PAID",
+      "postingDate": "31 Dec 2020",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "1543.98",
+      "transactionDate": "31 Dec 2020",
+      "description": "NA                   NIUM SDN. BHD.       IN45385548",
+      "postingDate": "31 Dec 2020",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-19.9",
+      "transactionDate": "31 Dec 2020",
+      "description": "SALE DEBIT",
+      "postingDate": "31 Dec 2020",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "51.0",
+      "transactionDate": "29 Dec 2020",
+      "description": "                     PUTRA IKMAL HAKIM B* Bil rumah",
+      "postingDate": "29 Dec 2020",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "51.0",
+      "transactionDate": "29 Dec 2020",
+      "description": "                     MOHAMMAD SALLEH BIN* Apiairsalleh",
+      "postingDate": "29 Dec 2020",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-12.42",
+      "transactionDate": "28 Dec 2020",
+      "description": "B020611              CYBERIA SMARTHOMES * 10067321",
+      "postingDate": "28 Dec 2020",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-49.0",
+      "transactionDate": "28 Dec 2020",
+      "description": "SALE DEBIT",
+      "postingDate": "28 Dec 2020",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-500.0",
+      "transactionDate": "28 Dec 2020",
+      "description": "000012019342ASB                           000012019342A",
+      "postingDate": "28 Dec 2020",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "3000.0",
+      "transactionDate": "27 Dec 2020",
+      "description": "MBB CT-              EV SOLUTION        * Salary",
+      "postingDate": "27 Dec 2020",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "-20.6",
+      "transactionDate": "25 Dec 2020",
+      "description": "SALE DEBIT",
+      "postingDate": "25 Dec 2020",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    },
+    {
+      "foreignAmount": "",
+      "amount": "20.79",
+      "transactionDate": "25 Dec 2020",
+      "description": "PRE-AUTH REFUND",
+      "postingDate": "25 Dec 2020",
+      "amountCurrency": "RM",
+      "foreignAmountCurrency": ""
+    }
+  ],
+  "statusMessage": "",
+  "status": "true",
+  "viewStatement": true
+}
