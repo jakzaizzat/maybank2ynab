@@ -7,7 +7,7 @@
 
 
 ## Todo
-
-[] Merge with debit transaction
-[] Automated sniff using puppeteer and give you CSV file
-[] Able to receive date **from** and **to** as an input
+- [x] Able to generate csv from maybank response (manually)
+- [ ] Merge with debit transaction
+- [ ] Automated sniff using puppeteer and give you CSV file
+- [ ] Able to receive date **from** and **to** as an input
